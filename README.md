@@ -44,5 +44,5 @@ After running the script the results (outputs) can be seen in the console log an
 You can check your outcomes with the results of the **Study 1** in the paper.
 
 
-## Reproduce Study 2
+## Reproduce all analysis (Study 1 & Study 2 & Combined)
 To reproduce the reults of **Study 2** and **Combined** analysis please visit [our paper's repository on GitHub](https://bit.ly/48Bxz2D).
