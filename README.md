@@ -13,12 +13,12 @@ We hypothesized that eliciting prior beliefs leads to more elaborative thinking 
 
 Please find the pre-print here: [Link to the pre-print](https://arxiv.org/abs/2401.05511)
 
-
+[](https://www.replicabilitystamp.org/logo/Reproducibility-small.png)](http://www.replicabilitystamp.org#https-github-com-miladrogha-youdrawit-visual-elicitation-git)
 ## Replicability Instructions
-In order to reproduce the analysis for **Study 1** depicted in the paper, please follow the steps below. Here we provide a step-by-step instructions to reproduce the analysis for **Study 1** in the paper (Figure 8.)
+In order to reproduce the analysis for **Study 1** depicted in the paper, please follow the steps below. Here, we provide step-by-step instructions to reproduce the analysis for **Study 1** in the paper (Figure 8.)
 
 ### 1. Install R and R Studio
-All analyses were conducted in R version 4.2.3. Download and Install R and R Studio from [RStudio Desktop](https://posit.co/download/rstudio-desktop/) .
+All analyses were conducted in R version 4.2.3. Download and Install R and R Studio from [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
 ### 2. Load the Project file
 In the R studio, go to file \-> Open project... \-> 
