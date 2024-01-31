@@ -46,3 +46,8 @@ You can check your outcomes with the results of the **Study 1** in the paper.
 
 ## Reproduce all analysis (Study 1 & Study 2 & Combined)
 To reproduce the results of **Study 2** and **Combined** analysis, please visit [our paper's repository on GitHub](https://bit.ly/48Bxz2D).
+
+
+## Troubleshoot
+If you are running the codes on Mac, please take a look at the solution below regarding installation of the `brms` package on Mac:
+[Resolve Issues Installing R Packages After Switching from Intel to Apple Silicon](https://stackoverflow.com/questions/74534902/resolve-issues-installing-r-packages-after-switch-from-intel-to-apple-silicon)
